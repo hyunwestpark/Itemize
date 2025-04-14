@@ -1,5 +1,4 @@
-# Itemize: 블록체인 기반 크라우드 펀딩 플랫폼
-<img src="public/itemizeLogo.svg" alt="Itemize Logo" width="100" height="100">
+# Itemize: 블록체인 기반 크라우드 펀딩 플랫폼 <img src="public/itemizeLogo.svg" alt="Itemize Logo" width="100" height="100">
 
 ## 프로젝트 소개
 Itemize는 블록체인 기술을 활용한 크라우드 펀딩 플랫폼입니다. 기존 크라우드 펀딩 시스템의 한계를 극복하고, 투자자와 프로젝트 창작자 모두에게 투명하고 효율적인 환경을 제공합니다. 스마트 컨트랙트를 통해 자금 조달 과정을 자동화하고, NFT 기반의 펀딩 참여 증명을 통해 투자 지분에 대한 유동성을 제공하고자 했습니다.
